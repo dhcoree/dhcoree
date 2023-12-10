@@ -14,8 +14,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=dhcoree&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
+### My linkedIn:
 <div align="center"> 
-### My linkedin:
 <a href="https://www.linkedin.com/in/douglas-henrique-453b32219/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div> 
  

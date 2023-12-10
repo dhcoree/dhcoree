@@ -54,4 +54,4 @@
 <p align="center"><img align="center" color="purple" src="https://profile-counter.glitch.me/{dhcoree}/count.svg" /></p> 
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6907F2&height=120&section=header&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6907F2&height=120&section=footer&animation=twinkling&fontAlignY=35"/>

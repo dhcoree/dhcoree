@@ -1,14 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6907F2&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6907F2&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Douglas+Henrique;I'm+a+front-end+developer;and+I+like+making+beautiful+and+intuitive+interfaces!;Welcome!:%29)](https://git.io/typing-svg)
-
-Hello! My name is Douglas Henrique
-
-I'm a front end developer
-
-and I like making beautiful and intuitive interfaces!
-
-Welcome!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6907F2&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Douglas+Henrique;I'm+a+front-end+developer;I+develop+beautiful+and+intuitive+interfaces;Welcome!:%29)](https://git.io/typing-svg)
 
 
 <div align="center">  

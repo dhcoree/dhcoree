@@ -51,7 +51,7 @@
 <p align="center"><img align="center" color="purple" src="https://profile-counter.glitch.me/{dhcoree}/count.svg" /></p> 
 <br></div>
 
-### Contact me
+### Contact me:
 
 <div align="left"> 
 <a href="https://www.linkedin.com/in/douglas-henrique-453b32219/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>

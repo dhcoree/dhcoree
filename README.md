@@ -46,15 +46,15 @@
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)&nbsp;
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)&nbsp;
 
+### Contact me:
+<div align="left"> 
+<a href="https://www.linkedin.com/in/douglas-henrique-453b32219/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+</div> 
+
+
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" color="purple" src="https://profile-counter.glitch.me/{dhcoree}/count.svg" /></p> 
 <br></div>
-
-### Contact me:
-
-<div align="left"> 
-<a href="https://www.linkedin.com/in/douglas-henrique-453b32219/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-</div> 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6907F2&height=120&section=footer&animation=twinkling&fontAlignY=35"/>

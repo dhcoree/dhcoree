@@ -47,6 +47,7 @@
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)&nbsp;
 
 ### Contact me:
+
 <div align="left"> 
 <a href="https://www.linkedin.com/in/douglas-henrique-453b32219/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div> 
